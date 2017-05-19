@@ -22,15 +22,11 @@ Design and implement a customer management system for the fancy broker agency.
 
 `Specifications:`
 
-  * The top bar should contain this links:
+  * The front page should have this structure:
   
   [ Home | Contacts | Search | Help ]
   
-  * Content:
-  
   [ content ]
-  
-  * Footer:
   
   [ Footer ]
 
