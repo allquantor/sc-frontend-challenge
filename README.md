@@ -10,7 +10,7 @@ Design and implement a customer management system for the fancy broker agency.
 1. Rules:
 
 * You have 4 hours to complete the tasks, be careful with your time, make sure you understand the requirements correctly.
-* Try not to over-optimize, an MVP with good documentation counts more than a single polished component.
+* Try not to over-optimize. An MVP with good documentation counts more than a single polished component.
 
 
 
@@ -26,7 +26,7 @@ Design and implement a customer management system for the fancy broker agency.
   ```
   [ Home | Contacts | Search | Help ]
   
-  [ content ]
+  [ Content ]
   
   [ Footer ]
   ```
@@ -34,7 +34,7 @@ Design and implement a customer management system for the fancy broker agency.
   
   1. Customer count.
   2. Average Age.
-  3. Standard derivation of the amount they owe the company.
+  3. [Standard deviation](https://en.wikipedia.org/wiki/Standard_deviation) of the amount they owe the company.
   4. Google Maps with the locations of contacts.
   
 * **Contact** section should render a view with 10 customers pro page and you are able to paginate trough the data.
