@@ -14,7 +14,7 @@ Design and implement a customer management system for the fancy broker agency.
 
 
 
-`User stories:`
+1. User stories:
 
 * The broker Tom, would like to see a list of his customers.
 * The broker Tom, should be able to search in customer data.
@@ -23,13 +23,13 @@ Design and implement a customer management system for the fancy broker agency.
 `Specifications:`
 
   * The front page should have this structure:
-  
+  ```
   [ Home | Contacts | Search | Help ]
   
   [ content ]
   
   [ Footer ]
-
+  ```
 * **Home** should render some statistical information about the customers:
   
   1. Customer count.
@@ -43,7 +43,7 @@ Design and implement a customer management system for the fancy broker agency.
 
 Demo data can be found in `Data.json`
 
-`Deliverable:`
+2. Deliverable:
 
 * You can use any language/technology/framework of your choice. But we will ask for the rationale. Since we are using Java Script React, a React app 
  would be a plus!
@@ -51,7 +51,7 @@ Demo data can be found in `Data.json`
 * You can provide a Github link to the solution or send us a tar ball. 
 
 
-`Bonus Points when:`
+3. Bonus Points when:
 
 * Creating a Docker app for your application.
 * Writing tests for the critical parts of the app.
