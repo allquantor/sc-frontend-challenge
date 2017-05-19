@@ -7,20 +7,20 @@
 
 Design and implement a customer management system for the fancy broker agency.
 
-`Rules:`
+1. Rules:
 
 * You have 4 hours to complete the tasks, be careful with your time, make sure you understand the requirements correctly.
 * Try not to over-optimize, an MVP with good documentation counts more than a single polished component.
 
 
 
-1. User stories:
+2. User stories:
 
 * The broker Tom, would like to see a list of his customers.
 * The broker Tom, should be able to search in customer data.
 * The broker Tom, should be able to see basic statistics over his data.
 
-`Specifications:`
+3. Specifications:
 
   * The front page should have this structure:
   ```
@@ -43,7 +43,7 @@ Design and implement a customer management system for the fancy broker agency.
 
 Demo data can be found in `Data.json`
 
-2. Deliverable:
+4. Deliverable:
 
 * You can use any language/technology/framework of your choice. But we will ask for the rationale. Since we are using Java Script React, a React app 
  would be a plus!
@@ -51,7 +51,7 @@ Demo data can be found in `Data.json`
 * You can provide a Github link to the solution or send us a tar ball. 
 
 
-3. Bonus Points when:
+5. Bonus Points when:
 
 * Creating a Docker app for your application.
 * Writing tests for the critical parts of the app.
